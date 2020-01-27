@@ -141,6 +141,7 @@ height: 48px;
     }
     .first{
          width: 90%;
+        /* width stavi na 100% da bi ti bio centriran text, centriraj i formu na mobile  */
          height: auto;
          text-align: center;
     }
